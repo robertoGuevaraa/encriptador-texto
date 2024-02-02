@@ -1,0 +1,114 @@
+body{
+    background-color: #F3F5FC;
+}
+
+.area-texto{
+    background-color: #F3F5FC;
+    border-style: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    color: #0A3871;
+    position: absolute;
+    height: 655px;
+    width: 651px;
+    left: 240px;
+    top: 168px;
+    resize: none;
+
+}
+
+.encriptador label{
+    position: absolute;
+    top: 851px;
+    left: 240px;
+    color: #403534;
+    font-size: 12px;
+}
+
+.botones-cuadro{
+    position: absolute;
+    top: 855px;
+    left: 240px;
+    margin: 20px 0 auto;
+    padding: 30px 0;
+}
+
+.botones-cuadro button{
+    font-size: 16px;
+    width: 328px;
+    height: 67px;
+    text-align: center;
+    border-radius: 24px;
+}
+
+.boton-azul{
+    background-color: #0A3871;
+    color: #FFFFFF;
+}
+
+.boton-transparente{
+    background-color: transparent;
+    color: #0A3871;
+}
+
+.mensaje{
+    position: absolute;
+    left: 1000px;
+    width: 400px;
+    height: 770px;
+    background-color: #FFFFFF;
+    top: 168px;
+    padding: 20px 0;
+    border-radius: 32px;
+}
+
+.mensaje img{
+    position: absolute;
+    padding: 243px 32px;
+}
+
+.mensaje label{
+    position: absolute;
+    top: 579px;
+    padding: 32px;
+    color: #343A40;
+}
+
+.mensaje p{
+    position: absolute;
+    top: 653px;
+    padding: 16px 32px;
+    color: #343A40;
+}
+
+.mensaje button{
+    position: absolute;
+    top: 700px;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.boton-copiar{
+    font-size: 16px;
+    width: 328px;
+    height: 67px;
+    text-align: center;
+    border-radius: 24px;
+    margin: 32px;
+}
+
+#textoEncriptado{
+    position: absolute;
+    text-align: justify;
+    top: 25px;
+    margin: 32px;
+    width: 70%;
+    font-size: 32px;
+    color: #135eb9;
+}
